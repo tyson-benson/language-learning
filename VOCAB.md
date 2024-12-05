@@ -65,21 +65,21 @@
 
 ## Time
 
-| English | Chinese | Japanese |
-| ------- | ------- | -------- |
-| Day        |         |          |
-| Month        |         |          |
-| Year        |         |          |
-| Hour        |         |          |
+| English       | Chinese | Japanese |
+| ------------- | ------- | -------- |
+| Day           |         |          |
+| Month         |         |          |
+| Year          |         |          |
+| Hour          |         |          |
 | Minute        |         |          |
 | Second        |         |          |
-| Millisecond        |         |          |
-| Tomorrow        |         |          |
-| Yesterday        |         |          |
-| Soon        |         |          |
-| Later        |         |          |
-| Wait a moment        |         |          |
-| Wait a moment        |         |          |
+| Millisecond   |         |          |
+| Tomorrow      |         |          |
+| Yesterday     |         |          |
+| Soon          |         |          |
+| Later         |         |          |
+| Wait a moment |         |          |
+| Wait a moment |         |          |
 
 ## Going places
 
